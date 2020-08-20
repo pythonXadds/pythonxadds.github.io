@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://pythonxadds.github.io/pythonxscribbles/posts/my-first-post/</loc>
+    <lastmod>2020-08-20T13:56:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pythonxadds.github.io/pythonxscribbles/posts/</loc>
+    <lastmod>2020-08-20T13:56:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pythonxadds.github.io/pythonxscribbles/</loc>
+    <lastmod>2020-08-20T13:56:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pythonxadds.github.io/pythonxscribbles/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://pythonxadds.github.io/pythonxscribbles/tags/</loc>
+  </url>
+  
+</urlset>
